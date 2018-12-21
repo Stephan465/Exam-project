@@ -1,0 +1,330 @@
+<!doctype html>
+<html>
+	<head>
+		<link href = "css/bootstrap.css" rel = "stylesheet">
+		<link href = "css/bootstrap-grid.css" rel = "stylesheet">
+		<link href = "css/bootstrap-reboot.css" rel = "stylesheet">
+		<link href = "css/main.css" rel = "stylesheet">
+		<meta charset = "utf-8">
+	</head>
+	<body>
+		<div class="upper-info">
+			<div>
+				<img src = "img/g+.jpg" alt = "g+">
+				<img src = "img/tw.jpg" alt = "tw">
+				<img src = "img/f.jpg" alt = "g+">
+				<img src = "img/p.jpg" alt = "g+">
+				<img src = "img/in.jpg" alt = "g+">
+			</div>
+			<div class="d-flex justify-content-end">
+				<img src = "img/map.jpg" alt = "map" class = "img-right-up">
+				<div class = "text-img"><small>8901 Marmora Road, Glassgow, DO4 89GR.</small></div>
+				<img src = "img/phone.jpg" alt = "phone" class = "img-right-up" width = "20px">
+				<div class = "text-img"><small>+1 959 603 6035 (585-SUPPORT)</small></div>
+				<img src = "img/mail.jpg" alt = "mail" class = "img-right-up" width = "22px">
+				<div class = "text-img"><small>contact@demolink.org</small></div>
+			</div>
+		</div>
+		<div class="d-flex bd-highlight he">
+		  <div class="p-2 logo flex-grow-1 bd-highlight"><img src = "img/logo.png" alt = "logo"></div>
+		  <div class="d-flex align-items-stretch bd-highlight">
+			<ul class="nav justify-content-center d-flex align-items-stretch">
+			  <li class="nav-item d-flex align-items-stretch">
+				<span class = "d-flex align-items-center b-or"><a class="nav-link active d-flex align-items-" href="#">HOME</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center"><a class="nav-link" href="#">ABOUT</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center"><a class="nav-link" href="#">PAGES</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center"><a class="nav-link" href="#">BLOG</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center"><a class="nav-link" href="#">GALLERY</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center"><a class="nav-link" href="#">CONTACTS</a></span>
+			  </li>
+			</ul>
+		  </div>
+		  <div class="p-2 bd-highlight src"><img src = "img/search.jpg" alt = "src"></div>
+		</div>
+		<div class ="b-grey">
+			<h3 class = "or">MEET THE TEAM</h3>
+			<div class="d-flex justify-content-between fst">
+			<div class="card c1" style="width: 18rem;">
+			  <img class="card-img-top" src="img/team-1.jpg" alt="JF">
+			  <div class="card-body">
+				<h5 class="card-title or">JOHN FRANKLIN</h5>
+				<p class="card-text">The founder of company, the head of the company.</p>
+			  </div>
+			</div>
+			<div class="card c1 " style="width: 18rem;">
+			  <img class="card-img-top" src="img/team-2.jpg" alt="BN">
+			  <div class="card-body">
+				<h5 class="card-title or">BARBARA MILSON</h5>
+				<p class="card-text">First subprincipal, lecturer. First-rate organizer and curator of company.</p>
+			  </div>
+			</div>
+			<div class="card c1" style="width: 18rem;">
+			  <img class="card-img-top" src="img/team-3.jpg" alt="MP">
+			  <div class="card-body">
+				<h5 class="card-title or">MARK POOL</h5>
+				<p class="card-text">One of the leading company coaches and trainers.</p>
+			  </div>
+			</div>
+			<div class="card c1" style="width: 18rem;">
+			  <img class="card-img-top" src="img/team-4.jpg" alt="JR">
+			  <div class="card-body">
+				<h5 class="card-title or">JESSICA RIGHT</h5>
+				<p class="card-text">Highly reputed and honored consultant.</p>
+			  </div>
+			</div>
+			</div>
+		</div>
+		<div class = "mx-auto"  style="width: 100%" align = "center">
+			<h1>WELCOME!</h1>
+			<p>Make your company a wrold wide known name with us! See what we can do for your business!</p>
+		</div>
+		<div class="d-flex justify-content-between wd">
+			<div class="card no-border" style="max-width: 250px;" align = "center">
+			   <div class = "rounded-circle d-flex justify-content-center align-items-center" >
+					<img class="card-img-top" src="img/marketing.jpg" alt="MARKETING">
+			  </div>
+			  <div class="card-body">
+				<h5 class="card-title or">MARKETING PROGRAMS</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			  </div>
+			</div>
+			<div class="card no-border" style="max-width: 250px;" align = "center">
+			  <div class = "rounded-circle d-flex justify-content-center align-items-center" >
+					<img class="card-img-top" src="img/premier.jpg" alt="PREMIER">
+			  </div>
+			  <div class="card-body">
+				<h5 class="card-title or">PREMIER SUPPORT</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			  </div>
+			</div>
+			<div class="card no-border" style="max-width:250px;" align = "center">
+			  <div class = "rounded-circle d-flex justify-content-center align-items-center" >
+					<img class="card-img-top" src="img/services.jpg" alt="SERVICES">
+			  </div>
+			  <div class="card-body">
+				<h5 class="card-title or">SERVICES</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			  </div>
+			</div>
+			<div class="card no-border" style="max-width: 250px" align = "center">
+			  <div class = "rounded-circle d-flex justify-content-center align-items-center" >
+					<img class="card-img-top idea" src="img/fresh-ideas.jpg" alt="IDEAS">
+			  </div>
+			  <div class="card-body">
+				<h5 class="card-title or">FRESH IDEAS</h5>
+				<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			  </div>
+			</div>
+		</div>
+		<div class=" d-flex b-or text-light">
+			<div class = "d-flex  icons">
+				<div>
+					<h5 class="card-title no-margin">Save time, save money, grow and succeed!</h5>
+					<p class="card-text no-margin">We provide professional customer care and excellent consulting services to build your business growth & prosperity. We are focused on providing you with the best-in-class care and services through world class technology and response mechanisms.</p>
+				
+				</div>
+				<a href="#" class="btn btn-primary btn1">Click here</a>
+			</div>
+		</div>
+		<div class = "body-prefooter">
+			<h5 class = "card-title or">WHAT WE DO</h5>
+			<div class = "row">
+				<div class = "col">
+					<p>See our work in action. We are ready to improve and grow your business and help achieve expected success.</p>
+					<p>Offering innovation and flexibility, quick and high result-orinted work. Get the skills you need to stay competitive in the world of business.</p>
+				</div>
+				<ul class = "col ul-img">
+					<li class = "list-1-2-3">Business Plan 5yr</li>
+					<li class = "list-1-2-3">Expert Business Plans</li>
+					<li class = "list-1-2-3">International Expansion Advice</li>
+					<li class = "list-1-2-3">Franchise Assessment</li>
+					<li class = "list-1-2-3">Opportunities for Growth Assessment</li>
+					<li class = "list-1-2-3">Business Plan 3yr</li>
+					<li class = "list-1-2-33">International business services</li>
+				</ul>
+				<ul class = "col ul-img">
+					<li class = "list-1-2-3">Market Research</li>
+					<li class = "list-1-2-3">Sales Analysis & Pricing Analysis</li>
+					<li class = "list-1-2-3">Advertising</li>
+					<li class = "list-1-2-3">Lead Generation</li>
+					<li class = "list-1-2-3">Online Marketing Advice</li>
+					<li class = "list-1-2-3">Marketing Plan 1yr</li>
+					<li class = "list-1-2-33">International Trading Glossary</li>
+				</ul>
+				<ul class = "col ul-img">
+					<li class = "list-1-2-3">Online Store</li>
+					<li class = "list-1-2-3">Online Marketing</li>
+					<li class = "list-1-2-3">Search Engine Optimization</li>
+					<li class = "list-1-2-3">Using Search Engines</li>
+					<li class = "list-1-2-3">Selling Globally Online</li>
+					<li class = "list-1-2-3">Website Design</li>
+					<li class = "list-1-2-33">Foreign Exchange Online</li>
+				</ul>
+			</div>
+			<div class = "mx-auto"  style="width: 300px;" align = "center">
+				<h1>EVENTS</h1>
+				<p>We know what it takes to be the leader! Your prosperity is our goal!</p>
+			</div>
+			<div class = "d-flex justify-content-center margin">
+				<div class="card no-border" style="width: 18rem; margin:3%">
+					<img class="card-img-top" src="img/page1-img1.jpg" alt="Card image cap">
+					<div class="card-body">
+					<p class="card-text">Since September 3 we have been waiting for our Ukrainian guests. Our new office was opened in Kyiv. We will be happy to meet you and topropose our help to you. Don't be afraid to begin a new happy life. Welcome!</p>
+					<a href="#" class = "or aor">Go somewhere</a>
+					</div>
+				</div>
+				<div class="card no-border" style="width: 18rem; margin:3%">
+					<img class="card-img-top" src="img/page1-img2.jpg" alt="Card image cap">
+					<div class="card-body">
+					<p class="card-text">This year fall company business-school will join ambitious. purposeful people in New York. You can spend your time profitably with us from 26th October till 7th November.It's not late to register yet.</p>
+					<a href="#" class = "or aor">Go somewhere</a>
+					</div>
+				</div>
+				<div class="card no-border" style="width: 18rem; margin:3%">
+					<img class="card-img-top" src="img/page1-img3.jpg" alt="Card image cap">
+					<div class="card-body">
+					<p class="card-text">The 20th course of the up-grade program has just finiched and 87 participants from 49 countries are now ready to move more masterfully on the career ladder. We are pround of our learners and sure that they will achieve their goals.</p>
+					<a href="#" class = "or aor">Go somewhere</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class = "bg-light-grey icons">
+			<div class=" d-flex " style="display:flex; flex-wrap:wrap">
+				<div class="card no-border  bg-light-grey" style="flex: 1 0 33%; width: 25rem; height: 10rem;">
+					<div class = "d-flex justify-content-between padding-top">
+					  <img class="card-img-top" src="img/comp.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+							<h5 class="card-title or">UP-GRADE PROGRAM</h5>
+							<p class="card-text">Our company up-grade program is for you! With the help of the best lectures and profs you will improve requisite skills.</p>
+					  </div>
+				  </div>
+				</div>
+				<div class="card no-border bg-light-grey" style="flex: 1 0 33%;  width: 25rem; height: 10rem;">
+					<div class = "d-flex justify-content-between">
+					  <img class="card-img-top" src="img/magister.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+						<h5 class="card-title or">EDUCATION & COURSES</h5>
+						<p class="card-text">Our dedicated expert staff provides you with the superfast support services to help individuals and business.</p>
+					  </div>
+				  </div>
+				</div>
+				<div class="card no-border bg-light-grey" style="flex: 1 0 33%;  width: 27rem; height: 10rem;">
+				<div class = "d-flex justify-content-between">
+				  <img class="card-img-top" src="img/cup.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+						<h5 class="card-title or">UBUSINESS-CREATION PROGRAM</h5>
+						<p class="card-text">Successful businessmen will explain you how to develop new business step by step and to create prosperous product.</p>
+					  </div>
+				  </div>
+				</div>
+			
+				<div class="card no-border  bg-light-grey" style="flex: 1 0 33%;  width: 25rem; height: 10rem;">
+					<div class = "d-flex justify-content-between">
+					  <img class="card-img-top" src="img/fly.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+							<h5 class="card-title or">BUSINESS STRATEGY</h5>
+							<p class="card-text">Our company up-grade program is for you! With the help of the best lectures and profs you will improve requisite skills.</p>
+					  </div>
+				  </div>
+				</div>
+				<div class="card no-border bg-light-grey" style="flex: 1 0 33%;  width: 25rem; height: 10rem;">
+					<div class = "d-flex justify-content-between">
+					  <img class="card-img-top" src="img/ok.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+						<h5 class="card-title or">THE BEST RESULTS</h5>
+						<p class="card-text">We want to share with the world fresh business ideas which have a great future, can make your business more produstive.</p>
+					  </div>
+				  </div>
+				</div>
+				<div class="card no-border bg-light-grey" style="flex: 1 0 33%;  width: 27rem; height: 10rem;">
+				<div class = "d-flex justify-content-between">
+				  <img class="card-img-top" src="img/telphone.jpg" alt="Card image cap" style = "height:45px; width:50px;">
+					  <div class="card-body cb">
+						<h5 class="card-title or">CUSTOMER CARE</h5>
+						<p class="card-text">Successful businessmen will explain you how to develop new business step by step and to create prosperous product.</p>
+					  </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+		<div class = "mx-auto"  style="width: 300px;" align = "center">
+			<h1>OUR PROJECTS</h1>
+			<p>Extensive sales and marketing experience. Progressive business thinking.</p>
+		</div>
+		<div class = "wd d-flex justify-content-between">
+			<div class="row" >
+				<div class = " col-sm-4">
+					<img class="img-people" src = "img/img1.jpg" alt = "img1">
+				</div>
+				<div class = " col-sm-4 ">
+					<img class="img-people" src = "img/img2.jpg" alt = "img2">
+				</div>
+				<div class = " col-sm-4">
+					<img class="img-people" src = "img/img3.jpg" alt = "img3">
+				</div>
+			</div>
+		</div>
+		<div class = "d-flex justify-content-between wd">
+				<div class="row" >
+				<div class = " col-sm-4">
+					<img class="img-people" src = "img/img4.jpg" alt = "img4">
+				</div>
+				<div class = " col-sm-4 i ">
+					<img class="img-people" src = "img/img5.jpg" alt = "img5">
+				</div>
+				<div class = " col-sm-4  ">
+					<img class="img-people" src = "img/img6.jpg" alt = "img6">
+				</div>
+			</div>
+		</div>
+		<div class = "mx-auto" align = "center">
+			<button type="button" class="btn btn-primary btn-lg">VIEW ALL</button>
+		</div>
+		<div class = "bg-light-grey">
+			<div class = "d-flex justify-content-between body-prefooter">
+				
+				<img src = "img/partnername1.png" alt = "sp1">
+				<img src = "img/partnername2.png" alt = "sp2">
+				<img src = "img/partnername3.png" alt = "sp3">
+				<img src = "img/partnername4.png" alt = "sp4">
+				<img src = "img/partnername5.png" alt = "sp5">
+				<img src = "img/partnername6.png" alt = "sp6">
+				<img src = "img/partnername7.png" alt = "sp7">
+			</div>
+		</div>
+		<div class = "ft-dark-grey">
+			<h5>Holderlin @2016 Privacy policy</h5>
+			<ul class="nav d-flex align-items-stretch">
+			  <li class="nav-item d-flex align-items-stretch">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">HOME</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">ABOUT</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">PAGES</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">BLOG</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">GALLERY</a></span>
+			  </li>
+			  <li class="nav-item d-flex align-items-stretch b">
+				<span class = "d-flex align-items-center ft"><a class="nav-link" href="#">CONTACTS</a></span>
+			  </li>
+			</ul>
+		</div>
+	</body>
+</html>
